@@ -9,6 +9,8 @@ paste it : https://www.microsoft.com/store/productId/9wzdncrfjbd8
 
 look for : Microsoft.XboxApp_48.54.25001.0_neutral_~_8wekyb3d8bbwe.appxbundle
 
+or just download it from my release on github.
+
 to install it u need : https://apps.microsoft.com/detail/9nblggh4nns1 
 
 Just launch Companion app using my app and it works.
