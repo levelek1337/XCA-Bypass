@@ -13,7 +13,7 @@ or just download it from my release on github.
 
 ~~to install it u need : https://apps.microsoft.com/detail/9nblggh4nns1~~
 
-microsoft black listed xbox companion app microsoft store and app installer, now u need to install it with powershell command 
+microsoft black listed xbox companion app microsoft store and app installer, now u need to install it with powershell command, you might need to turn on installing from any source in developer settings
 
 `Add-AppxPackage -Path "C:\Users\EXAMPLE\Desktop\XCA Bypass\Microsoft.XboxApp_48.54.25001.0_neutral_~_8wekyb3d8bbwe.AppxBundle"`
 
